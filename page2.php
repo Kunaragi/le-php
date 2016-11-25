@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <h1>Question n°2</h1>
   <h2>The elephant when "for" (again :) )</h2>
     <?php
