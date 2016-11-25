@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <header>
   <h1>J'aime le php</h1>
 </header>
@@ -21,4 +22,5 @@
         $i=$i+1;
       }
     ?>
-   
+  </body>
+  </html>
